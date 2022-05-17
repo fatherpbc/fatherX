@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="71162f7c-d509-11ec-9d64-0242ac120002"
+ARG AUUID="610fff9c-d575-11ec-9d64-0242ac120002"
 ARG CADDYIndexPage="https://github.com/cjxpbc/doc/raw/main/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
